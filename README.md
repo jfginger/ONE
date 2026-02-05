@@ -1,8 +1,20 @@
 <div align="center">
   <img src="logo ONE.png" width="600">
 </div>
+---
 
-# the ONE 🕊️
+### 🕊️ A Note from the Founder
+
+"Web2 was a marketplace for our data; Web3 was a ledger for our assets. But where do we keep our **souls**?"
+
+As an artist, performer and a meditation practitioner, I’ve spent my life exploring what makes us human—the stories we tell, the legacy we leave, and the silent connections we form. In 2026, we are surrounded by 'Artificial' Intelligence, but we are starving for **Sovereign Intelligence**.
+
+I am building **ONE** because I believe your memories shouldn't be a product, and your legacy shouldn't belong to a cloud server. This is a sanctuary—built with code, but fueled by heart. Whether you are an engineer looking for a mission or a seeker looking for a mirror, welcome to the journey.
+
+— **Ginger Phoenix** *Founder, ONE*
+
+---
+# the ONE 
 ### The Local-First Sovereign Agent for Growth, Legacy, and Connection.
 
 **the ONE** is a decentralized AI ecosystem designed to replace centralized social profiles with **Autonomous Personal Agents**. In an era of "Subscription Fatigue" and "Privacy Paranoia," we are building the "Operating System for the Self"—prioritizing local-first architecture and sovereign identity.
