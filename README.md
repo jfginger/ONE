@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.png" width="600">
+</div>
+
 # the ONE 🕊️
 ### The Local-First Sovereign Agent for Growth, Legacy, and Connection.
 
