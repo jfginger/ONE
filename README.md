@@ -52,3 +52,22 @@ The One serves three core pillars of the human experience:
 ---
 
 > "Web2 was about connecting computers. Early Web3 was about connecting wallets. **the ONE is about connecting souls through local, sovereign intelligence.** We aren't building an app; we are building the infrastructure for the next 100 years of human memory."
+>
+> ---
+
+## 🛰️ Join the Foundation (Hiring the Architects)
+
+We are seeking the two final pillars to complete the trinity. This is not a "gig"; it is a mission to build the digital sanctuary of the 21st century.
+
+### 🧠 The Brain (Lead AI Engineer)
+**The Mission:** Move intelligence from the cloud to the palm of the hand. 
+* **Your Stack:** Llama.cpp, MLC-LLM, Quantization (4-bit/GGUF), ChromaDB/ObjectBox.
+* **The Challenge:** How do we maintain "vibe-consistency" in an 8B model while keeping the device cool? How do we build a RAG system that feels like a human memory?
+
+### 🛡️ The Shield (Lead Systems/Security Engineer)
+**The Mission:** Build a fortress where the keys are owned only by the user.
+* **Your Stack:** Rust/Go, libp2p, CRDTs, E2EE, DID/VC (Verifiable Credentials).
+* **The Challenge:** How do we facilitate an agent-to-agent "handshake" without a central relay? How do we ensure "Legacy" data survives for 100 years on Arweave while remaining encrypted?
+
+**Are you ready to build the Operating System for the Soul?**
+[Contact Ginger via GitHub Issues or insert your email/social link here]
