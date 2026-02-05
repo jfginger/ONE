@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ONE.png" width="600">
+  <img src="logo ONE.png" width="600">
 </div>
 
 # the ONE 🕊️
