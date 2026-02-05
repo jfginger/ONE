@@ -11,7 +11,7 @@ As an artist, performer and a meditation practitioner, I’ve spent my life expl
 
 I am building **ONE** because I believe your memories shouldn't be a product, and your legacy shouldn't belong to a cloud server. This is a sanctuary—built with code, but fueled by heart. Whether you are an engineer looking for a mission or a seeker looking for a mirror, welcome to the journey.
 
-— **Ginger Phoenix** *Founder, ONE*
+— **Ginger Phoenix** *Founder, the ONE*
 
 ---
 # the ONE 
