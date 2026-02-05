@@ -4,6 +4,16 @@
 **the ONE** is a decentralized AI ecosystem designed to replace centralized social profiles with **Autonomous Personal Agents**. In an era of "Subscription Fatigue" and "Privacy Paranoia," we are building the "Operating System for the Self"—prioritizing local-first architecture and sovereign identity.
 
 ---
+## 📂 Project Structure (The Soul's Architecture)
+
+Navigate through the core components of **the ONE**:
+
+* **[`/logic`](./logic)**: The "Brain" of the project.
+    * [`personality_v1.md`](./logic/personality_v1.md) — The AI behavior and "Banter" standards.
+    * [`memory_structure.md`](./logic/memory_structure.md) — How we handle Local-First RAG and privacy.
+    * [`matchmaking_protocol.md`](./logic/matchmaking_protocol.md) — The P2P agent-to-agent handshake logic.
+    * [`first_contact_script.md`](./logic/first_contact_script.md) — The "Phase 1: Mirror" user experience script.
+* **[`README_PROGRESS.md`](./README_PROGRESS.md)**: Real-time development roadmap and hiring needs.
 
 ## 🌟 Executive Summary
 The One serves three core pillars of the human experience:
